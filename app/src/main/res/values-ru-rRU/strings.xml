@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Day R Help</string>
+    <string name="equipment">Снаряжение</string>
+    <string name="character">Персонажи</string>
+    <string name="food">Еда</string>
+    <string name="components">Компоненты</string>
+    <string name="medicine">Медикменты</string>
+    <string name="transport">Транспорт</string>
+    <string name="survival">Выживание</string>
+    <string name="weapon">Оружие</string>
+    <string name="quests">Квесты</string>
+    <string name="enemy">Противники</string>
+    <string name="settings">Настройки</string>
 </resources>

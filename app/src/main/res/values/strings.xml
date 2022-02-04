@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Day R Help</string>
+    <string name="equipment">Equipment</string>
+    <string name="character">Character</string>
+    <string name="food">Food</string>
+    <string name="components">Components</string>
+    <string name="medicine">Medicine</string>
+    <string name="transport">Transport</string>
+    <string name="survival">Survival</string>
+    <string name="weapon">Weapon</string>
+    <string name="quests">Quests</string>
+    <string name="enemy">Enemy</string>
+    <string name="settings">Settings</string>
+
+
 </resources>
