@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/equipment_drawer_menu"
+            android:icon="@drawable/ic_equipment_drawer_menu"
+            android:title="@string/equipment" />
+
+        <item
+            android:id="@+id/character_drawer_menu"
+            android:icon="@drawable/ic_character_drawer_menu"
+            android:title="@string/character" />
+
+        <item
+            android:id="@+id/food_drawer_menu"
+            android:icon="@drawable/ic_food_drawer_menu"
+            android:title="@string/food" />
+        <item
+            android:id="@+id/components_drawer_menu"
+            android:icon="@drawable/ic_components_drawer_menu"
+            android:title="@string/components" />
+        <item
+            android:id="@+id/medicine_drawer_menu"
+            android:icon="@drawable/ic_medicine_drawer_menu"
+            android:title="@string/medicine" />
+        <item
+            android:id="@+id/transport_drawer_menu"
+            android:icon="@drawable/ic_transport_drawer_menu"
+            android:title="@string/transport" />
+        <item
+            android:id="@+id/survival_drawer_menu"
+            android:icon="@drawable/ic_survival_drawer_menu"
+            android:title="@string/survival" />
+        <item
+            android:id="@+id/weapon_drawer_menu"
+            android:icon="@drawable/ic_weapon_drawer_menu"
+            android:title="@string/weapon" />
+        <item
+            android:id="@+id/quests_drawer_menu"
+            android:icon="@drawable/ic_quests_drawer_menu"
+            android:title="@string/quests" />
+        <item
+            android:id="@+id/enemy_drawer_menu"
+            android:icon="@drawable/ic_enemy_drawer_menu"
+            android:title="@string/enemy" />
+    </group>
+
+    <item android:title="@string/settings">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_settings_drawer_menu"
+                android:title="@string/settings" />
+
+        </menu>
+    </item>
+
+</menu>
