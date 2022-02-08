@@ -11,6 +11,10 @@
     <string name="quests">Quests</string>
     <string name="enemy">Enemy</string>
     <string name="settings">Settings</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+
+
 
 
 </resources>
