@@ -2,13 +2,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
-
-
     <group android:checkableBehavior="single">
+
         <item
             android:id="@+id/equipment_drawer_menu"
             android:icon="@drawable/ic_equipment_drawer_menu"
-            android:title="@string/equipment" />
+            android:title="@string/equipment"/>
 
         <item
             android:id="@+id/character_drawer_menu"
@@ -52,7 +51,7 @@
     <item android:title="@string/settings">
         <menu>
             <item
-                android:id="@+id/nav_share"
+                android:id="@+id/nav_setting"
                 android:icon="@drawable/ic_settings_drawer_menu"
                 android:title="@string/settings" />
 
